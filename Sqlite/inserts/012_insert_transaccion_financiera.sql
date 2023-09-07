@@ -1,0 +1,14 @@
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-11',449.86,1,4,1);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-13',374.89,2,1,1);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-15',2214.835,3,5,2);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-16',2214.835,3,5,2);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-15',3598.17,4,5,1);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-19',50.11,5,4,2);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-20',43.11,5,5,2);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-19',3567.19,6,5,1);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-21',2064.35,7,2,1);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-23',227.0775,8,1,2);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-24',227.0775,8,5,2);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-25',227.0775,8,2,2);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-25',227.0775,9,1,1);
+INSERT INTO transacciones_financieras (fecha, monto, factura_id, empleado_id, forma_pago_id) VALUES ('2023-06-28',58.41,10,3,1);

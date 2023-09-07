@@ -1,0 +1,6 @@
+CREATE TABLE empresa_propia (
+  id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  RUC VARCHAR(11) NOT NULL,
+  razon_social VARCHAR(50) NOT NULL,
+  direcc_empresa VARCHAR(100) NOT NULL
+);

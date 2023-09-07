@@ -1,0 +1,10 @@
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (381.24,68.62,449.86,'2023-06-11',1,1);
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (317.7,57.19,374.89,'2023-06-13',1,1);
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (3753.96,675.71,4429.67,'2023-06-14',1,2);
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (3049.3,548.87,3598.17,'2023-06-15',1,1);
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (79,14.22,93.22,'2023-06-18',1,1);
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (3023.04,544.15,3567.19,'2023-06-19',1,1);
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (1749.45,314.9,2064.35,'2023-06-21',1,2);
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (769.75,138.56,908.31,'2023-06-22',1,1);
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (59.4,10.69,70.09,'2023-06-25',1,1);
+INSERT INTO facturas (valor_venta, IGV, precio_venta, fecha_creacion, empresa_propia_id, moneda_id) VALUES (49.5,8.91,58.41,'2023-06-28',1,1);

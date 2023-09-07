@@ -1,0 +1,10 @@
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0001',61,10.98,71.98,TO_DATE('12/12/2023', 'dd/mm/yyyy'),'soles');
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0002',51,9.18,60.18,TO_DATE('18/12/2023', 'dd/mm/yyyy'),'dolares');
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0003',78,14.04,92.04,TO_DATE('15/12/2023', 'dd/mm/yyyy'),'euros');
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0004',76,13.68,89.68,TO_DATE('18/10/2023', 'dd/mm/yyyy'),'soles');
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0005',52,9.36,61.36,TO_DATE('19/12/2023', 'dd/mm/yyyy'),'dolares');
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0006',72,12.96,84.96,TO_DATE('23/12/2023', 'dd/mm/yyyy'),'euros');
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0007',70,12.6,82.6,TO_DATE('11/12/2023', 'dd/mm/yyyy'),'soles');
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0008',67,12.06,79.06,TO_DATE('10/10/2023', 'dd/mm/yyyy'),'dolares');
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0009',74,13.32,87.32,TO_DATE('23/12/2023', 'dd/mm/yyyy'),'euros');
+INSERT INTO facturas (codigo, valor_venta, igv, precio_venta, fecha_creacion, moneda) VALUES ('E001-0010',55,9.9,64.9,TO_DATE('12/12/2023', 'dd/mm/yyyy'),'soles');
